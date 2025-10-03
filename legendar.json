@@ -1,0 +1,292 @@
+[
+    {
+        "name": "Megalodon",
+        "beschreibung": "Der Urzeit-Hai, größer als ein Schulbus",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Weißer Hai",
+        "beschreibung": "Der berühmteste Kinostar unter den Haien",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Grönlandhai",
+        "beschreibung": "Kann älter werden als manche Länder existieren",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Baskingshai",
+        "beschreibung": "Frisst mit offenem Mund und sieht dabei entspannt aus",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Riesenmanta",
+        "beschreibung": "Fliegt durch das Wasser wie ein Adler am Himmel",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Riesenkalmar",
+        "beschreibung": "Der Krakenkönig der Tiefsee",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Oarfish",
+        "beschreibung": "Ein langer, glänzender Tiefseebewohner – fast mythisch",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Schwarzspitzen-Hochseehai",
+        "beschreibung": "Der Jetsetter der Ozeane",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Kurzflossen-Mako",
+        "beschreibung": "Der schnellste Hai der Welt",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Tigerrochen",
+        "beschreibung": "Riesig und gestreift wie sein Namensvetter",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Goblinhai",
+        "beschreibung": "Sieht aus wie ein Unterwasser-Dino",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Schokoladenhai",
+        "beschreibung": "Dunkelbraun und mysteriös",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Fransenhai",
+        "beschreibung": "Wirkt wie aus einem Fantasyroman",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Langflossenhai",
+        "beschreibung": "Mit Flossen wie elegante Flügel",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Walrossfisch",
+        "beschreibung": "Groß, schwer und mit legendärem Bart",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Pazifischer Riesenbarsch",
+        "beschreibung": "So massiv, dass Taucher staunen",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Leopardhai",
+        "beschreibung": "Mit Flecken wie eine Raubkatze",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Riesenzackenbarsch",
+        "beschreibung": "Ein Unterwasserriese mit stoischer Ruhe",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Schwarzaugenhai",
+        "beschreibung": "Sein Blick verrät, dass er alles gesehen hat",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Sandtigerhai",
+        "beschreibung": "Mit Zähnen wie aus einem Horrorfilm",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Bullenhai",
+        "beschreibung": "Fühlt sich in Süß- und Salzwasser wohl",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Siebenschläferhai",
+        "beschreibung": "Ein lebendes Fossil der Meere",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Riesenseeteufel",
+        "beschreibung": "Tiefsee-Legende mit grimmigem Gesicht",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Geisterhai",
+        "beschreibung": "Durchscheinend und geheimnisvoll",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Schneeleopardhai",
+        "beschreibung": "Selten gesehen, eiskalt im Auftreten",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Langschnauzenhai",
+        "beschreibung": "Kann übertrieben neugierig wirken",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Schwarzhai",
+        "beschreibung": "Fast unsichtbar in dunklen Gewässern",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Silberhai",
+        "beschreibung": "Glänzt wie frisch poliertes Metall",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Drachenhai",
+        "beschreibung": "Wirkt wie ein Fabelwesen aus alten Sagen",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Spitzkopfhai",
+        "beschreibung": "Scharf im Kopf, scharf im Biss",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Krokodilfisch",
+        "beschreibung": "Liegt still auf dem Grund und wartet",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Riesenrochen",
+        "beschreibung": "Breit wie ein Segelflugzeug",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Marmorhai",
+        "beschreibung": "Mit Muster wie edler Stein",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Riesenhai",
+        "beschreibung": "Sanfter Riese mit großem Appetit auf Plankton",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Säbelzahnfisch",
+        "beschreibung": "Seine Zähne sehen aus wie Schwerter",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Phantomrochen",
+        "beschreibung": "Bewegt sich wie ein Schatten durchs Wasser",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Kaisermanta",
+        "beschreibung": "Herrscht majestätisch über die Strömungen",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Zweihornhai",
+        "beschreibung": "Trägt zwei Hörner wie ein Drache",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Riesenstachelrochen",
+        "beschreibung": "Mit Stachel, den man nicht unterschätzen sollte",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Bartenhai",
+        "beschreibung": "Filtert das Meer wie ein Profi",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Schwertwal",
+        "beschreibung": "Der Spitzenjäger der Ozeane",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Falscher Killerwal",
+        "beschreibung": "Nicht böse, aber gerne gefürchtet",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Schwarzer Teufelshai",
+        "beschreibung": "Düster und furchteinflößend",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Seeschlange",
+        "beschreibung": "Gleitet wie ein Band durchs Wasser",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Tiefsee-Drachenfisch",
+        "beschreibung": "Leuchtet unheimlich in der Finsternis",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Schlangenkopffisch",
+        "beschreibung": "Kann sogar an Land spazieren gehen",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Mörderrochen",
+        "beschreibung": "Nicht nett, aber beeindruckend",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Großer Hammerhai",
+        "beschreibung": "Mit Kopfform für den ultimativen Überblick",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Seewolf",
+        "beschreibung": "Mit Zähnen, die Muscheln knacken wie Chips",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Riesenflossenthun",
+        "beschreibung": "Ein Rennwagen unter den Fischen",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Sichelflossenhai",
+        "beschreibung": "Mit Flossen wie scharfe Klingen",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Kuhhai",
+        "beschreibung": "Gemütlich, aber mächtig",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Blauwals-Freund",
+        "beschreibung": "Reist oft in Gesellschaft der größten Tiere der Welt",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Polarhai",
+        "beschreibung": "Herrscht über die eiskalten Meere",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Kometenhai",
+        "beschreibung": "Zieht leuchtende Spuren durchs Wasser",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Titanhai",
+        "beschreibung": "So gewaltig wie sein Name klingt",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Sternenhai",
+        "beschreibung": "Glitzert wie ein klarer Nachthimmel",
+        "seltenheit": "Legendär"
+    },
+    {
+        "name": "Krakenkönig",
+        "beschreibung": "Herrscher über die Tentakelreiche",
+        "seltenheit": "Legendär"
+    }
+]

@@ -1,0 +1,287 @@
+[
+    {
+        "name": "Laternenfisch",
+        "beschreibung": "Hat seine eigene Taschenlampe dabei",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Papageienfisch",
+        "beschreibung": "Kaut an Korallen wie andere an Keksen",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Mandarinfisch",
+        "beschreibung": "So bunt, dass selbst Regenbögen neidisch werden",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Flughahn",
+        "beschreibung": "Kann nicht wirklich fliegen, tut aber so",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Teufelsfisch",
+        "beschreibung": "Sieht fies aus, ist aber ein Softie",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Streifenbarsch",
+        "beschreibung": "Trägt immer das gleiche gestreifte Outfit",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Barrakuda",
+        "beschreibung": "Der Blitzstart-Sprinter des Meeres",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Rochen",
+        "beschreibung": "Gleitet wie ein fliegender Teppich durchs Wasser",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Geigenrochen",
+        "beschreibung": "Sieht aus wie ein Instrument, spielt aber keinen Ton",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Blattfisch",
+        "beschreibung": "Tut so, als wäre er nur ein Blatt",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Schleimkopf",
+        "beschreibung": "Sieht immer leicht zerdrückt aus",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Fangschreckenkrebs",
+        "beschreibung": "Schlägt schneller zu als du blinzeln kannst",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Teufelsrochen",
+        "beschreibung": "Wirkt furchteinflößend, aber liebt Streicheleinheiten",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Seeteufel",
+        "beschreibung": "Schönheit ist nicht seine Stärke",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Kaiserfisch",
+        "beschreibung": "Trägt seine Krone unsichtbar",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Kardinalbarsch",
+        "beschreibung": "Der Gentleman der tropischen Riffe",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Trompetenfisch",
+        "beschreibung": "Lang, dünn und musikalisch talentlos",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Pfeifenfisch",
+        "beschreibung": "Pfeift auf alles – im wahrsten Sinne",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Seidensalmler",
+        "beschreibung": "Elegant wie ein Unterwasser-Model",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Zwergkaiserfisch",
+        "beschreibung": "Winzig, aber voller Attitüde",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Harlekin-Lippfisch",
+        "beschreibung": "Sieht aus, als hätte er Karneval nie verlassen",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Fetzenfisch",
+        "beschreibung": "So zerzaust, dass es schon wieder cool ist",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Messeraal",
+        "beschreibung": "Schneidet durch Wasser wie durch Butter",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Tigerhai",
+        "beschreibung": "Trägt Streifen wie eine Wildkatze",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Hammerhai",
+        "beschreibung": "Hat den ungewöhnlichsten Kopf der Meere",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Walhai",
+        "beschreibung": "Größer als ein Bus, sanfter als eine Wolke",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Paddelfisch",
+        "beschreibung": "Nase wie ein Tennisschläger",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Mondrochen",
+        "beschreibung": "Leuchtet im Dunkeln wie ein Vollmond",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Sägefisch",
+        "beschreibung": "Kann Holzarbeiten übernehmen",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Goliath-Zackenbarsch",
+        "beschreibung": "So groß, dass er fast ein eigenes Boot braucht",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Spiegelkarpfen",
+        "beschreibung": "Sieht immer aus, als hätte er gerade gepoliert",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Albino-Wels",
+        "beschreibung": "Weiß wie Schnee, aber ohne Prinzessin",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Glaskopffisch",
+        "beschreibung": "Kann durch seinen eigenen Kopf sehen",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Regenbogenlippfisch",
+        "beschreibung": "Jeden Tag ein anderes Outfit",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Fledermausfisch",
+        "beschreibung": "Hat Flossen wie Umhänge",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Schokoladen-Gourami",
+        "beschreibung": "Süß im Namen, bitter im Charakter",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Schmetterlingsfisch",
+        "beschreibung": "So schön, dass Taucher ihn ständig fotografieren",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Langnasen-Korallenwächter",
+        "beschreibung": "Immer auf Posten, um Korallen zu bewachen",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Kuhfisch",
+        "beschreibung": "Hat kleine Hörnchen, muht aber nicht",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Boxfish",
+        "beschreibung": "Sieht aus wie ein schwimmender Würfel",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Perlenbarsch",
+        "beschreibung": "Glänzt wie ein Schmuckstück",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Himmelsfisch",
+        "beschreibung": "Schwimmt, als würde er fliegen",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Marmorbuntbarsch",
+        "beschreibung": "Muster wie ein Künstleratelier",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Feuerfisch",
+        "beschreibung": "Schön, aber sticht wie ein Kaktus",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Korallenwels",
+        "beschreibung": "Mag es kuschelig zwischen den Riffen",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Zebrafisch",
+        "beschreibung": "Streifenlook seit Geburt",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Bonito",
+        "beschreibung": "Sieht immer aus, als hätte er gute Laune",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Riffhai",
+        "beschreibung": "Der Türsteher des Korallenriffs",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Samtkaiserfisch",
+        "beschreibung": "Weicher Name, stolze Haltung",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Moorish Idol",
+        "beschreibung": "Hat immer einen eleganten Auftritt",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Quastenflosser",
+        "beschreibung": "Fossil mit Retro-Charme",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Spiegelbuntbarsch",
+        "beschreibung": "Kann nicht aufhören, sich selbst anzuschauen",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Seidengoby",
+        "beschreibung": "Klein, aber schick wie Seide",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Prachtkaiserfisch",
+        "beschreibung": "Läuft immer auf dem roten Teppich",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Streifenpfeifenfisch",
+        "beschreibung": "Schlank, gestreift und geheimnisvoll",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Himmelskaiser",
+        "beschreibung": "Der Herrscher über die oberen Riffetagen",
+        "seltenheit": "Selten"
+    },
+    {
+        "name": "Rubinbarsch",
+        "beschreibung": "Rot wie ein Edelstein und genauso wertvoll",
+        "seltenheit": "Selten"
+    }
+]

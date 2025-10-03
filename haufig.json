@@ -1,0 +1,282 @@
+[
+    {
+        "name": "Lachs",
+        "beschreibung": "Kommt aus Norwegen oder Kanada und schmeckt prima",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Hering",
+        "beschreibung": "Gibt es beim Zelt und ist leicht zu verwechseln",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Kabeljau",
+        "beschreibung": "Der Anzugträger unter den Fischen – immer schick unterwegs",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Makrele",
+        "beschreibung": "Kann schneller schwimmen als du gucken kannst",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Dorsch",
+        "beschreibung": "Mag es gemütlich, aber jagt auch gern mal Snacks",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Barsch",
+        "beschreibung": "Der Kleingangster der Seen – immer mit frechem Blick",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Forelle",
+        "beschreibung": "Macht jeden Bach zu ihrer Wellness-Oase",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Aal",
+        "beschreibung": "Schlängelt sich durchs Leben ohne Stress",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Hecht",
+        "beschreibung": "Immer in Lauerstellung für den nächsten Bissen",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Zander",
+        "beschreibung": "Mag es dunkel und macht selten Selfies",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Thunfisch",
+        "beschreibung": "Der Ausdauersportler des Ozeans",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Sardine",
+        "beschreibung": "Mag es eng und kuschelig mit Freunden",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Plötze",
+        "beschreibung": "Bringt Chaos in jede Unterwasser-Party",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Brasse",
+        "beschreibung": "Liegt gern am Grund und chillt",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Rotauge",
+        "beschreibung": "Sieht aus, als hätte es die Nacht durchgemacht",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Scholle",
+        "beschreibung": "Der Meister im Flachliegen",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Flunder",
+        "beschreibung": "Immer ein bisschen schief, aber glücklich",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Seehecht",
+        "beschreibung": "Isst lieber andere als selbst gegessen zu werden",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Wels",
+        "beschreibung": "Der Großvater der Flüsse mit beeindruckendem Bart",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Hornhecht",
+        "beschreibung": "Kommt mit eingebautem Zahnstocher daher",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Goldfisch",
+        "beschreibung": "Vergisst, was er gerade gedacht hat",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Koi",
+        "beschreibung": "Der Showstar im Gartenteich",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Guppy",
+        "beschreibung": "Klein, bunt und immer unterwegs",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Neonfisch",
+        "beschreibung": "Leuchtet heller als eine Discokugel",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Diskusfisch",
+        "beschreibung": "Der runde Philosoph unter den Fischen",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Betta",
+        "beschreibung": "Wunderschön, aber leicht reizbar",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Seelachs",
+        "beschreibung": "Nennt sich Lachs, ist aber keiner",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Steinbutt",
+        "beschreibung": "Sieht aus, als hätte er einen schlechten Tag",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Schwertfisch",
+        "beschreibung": "Trägt sein eigenes Brotmesser bei sich",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Mahi-Mahi",
+        "beschreibung": "Der Surferboy des Meeres",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Fächerfisch",
+        "beschreibung": "Hat den größten Flossenfächer weit und breit",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Drückerfisch",
+        "beschreibung": "Immer ein bisschen nörgelig unterwegs",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Clownfisch",
+        "beschreibung": "Erzählt Witze, auch wenn keiner lacht",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Anemonenfisch",
+        "beschreibung": "Zieht nie ohne seine Lieblingsanemone aus",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Kugelfisch",
+        "beschreibung": "Bläst sich auf, wenn er beleidigt ist",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Zitronenhai",
+        "beschreibung": "Bedrohlich und erfrischend zugleich",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Seepferdchen",
+        "beschreibung": "Reitet durchs Leben wie ein Cowboy",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Lippfisch",
+        "beschreibung": "Hat immer diesen Schmollmund",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Butterfisch",
+        "beschreibung": "Weicher als jede Wolldecke",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Glasfisch",
+        "beschreibung": "So durchsichtig, dass man ihn fast übersieht",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Flussbarsch",
+        "beschreibung": "Klein, aber denkt, er sei ein Hai",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Arapaima",
+        "beschreibung": "Der Riese des Amazonas",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Tilapia",
+        "beschreibung": "Immer gut gelaunt und gesellig",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Stör",
+        "beschreibung": "Alt, weise und etwas grummelig",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Marmorwels",
+        "beschreibung": "Trägt sein schönstes Muster spazieren",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Regenbogenforelle",
+        "beschreibung": "Trägt immer die neuesten Farben",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Piranha",
+        "beschreibung": "Mag Teamarbeit – vor allem beim Essen",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Schwarzbarsch",
+        "beschreibung": "Der Rocker der Seen",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Mondfisch",
+        "beschreibung": "Groß, rund und etwas verträumt",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Blenny",
+        "beschreibung": "Neugierig wie ein Paparazzi",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Zackenbarsch",
+        "beschreibung": "Groß, stark und ein bisschen einschüchternd",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Schneckenbarsch",
+        "beschreibung": "Lebt am liebsten im Schneckenhaus",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Felsenbarsch",
+        "beschreibung": "Mag es steinig und sicher",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Weißling",
+        "beschreibung": "Immer in schlichtem Outfit unterwegs",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Kardinalfisch",
+        "beschreibung": "Klein, rot und sehr stolz",
+        "seltenheit": "Häufig"
+    },
+    {
+        "name": "Muräne",
+        "beschreibung": "Der Schlangen-Imitator des Meeres",
+        "seltenheit": "Häufig"
+    }
+]
